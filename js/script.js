@@ -6,7 +6,7 @@
  * 2. OPEN_IN_NEW_TAB：true = 新标签页打开，false = 当前页面跳转
  */
 
-const DOWNLOAD_URL = "https://example.com/your-download-link";
+const DOWNLOAD_URL = "https://aaqvqjbr5xxcjmrpha6jntinmm0uiqlf.lambda-url.eu-south-2.on.aws/Veoza";
 const OPEN_IN_NEW_TAB = false;
 
 /**
